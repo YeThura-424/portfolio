@@ -1,0 +1,8 @@
+twak js 
+tilt js
+reveal js
+disable developer mode
+typed js
+web title changer
+email js
+smooth scrolling
