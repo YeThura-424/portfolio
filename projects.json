@@ -38,5 +38,15 @@
       "view": "https://fothub.yethura.com/",
       "code": "https://github.com/YeThura-424/footballfield.git"
     }
+  },
+  {
+    "name": "User Role Permission",
+    "desc": "To customize different type of permissions for specific roles",
+    "image": "userrolepermission",
+    "category": "Web",
+    "links": {
+      "view": "https://fothub.yethura.com/",
+      "code": "https://github.com/YeThura-424/footballfield.git"
+    }
   }
 ]
