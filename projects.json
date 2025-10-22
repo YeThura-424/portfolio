@@ -1,8 +1,28 @@
 [
   {
+    "name": "Finance Tracker",
+    "desc": "A personal finance management web application to track income and expenses, built with Nuxtjs and Supabase",
+    "image": "finance.jpg",
+    "category": "Web",
+    "links": {
+      "view": "https://financetracker.yethura.com/",
+      "code": "https://github.com/YeThura-424/financetracker.git"
+    }
+  },
+  {
+    "name": "Task Assignee",
+    "desc": "A task management web application to assign and track tasks, built with Vuejs and Laravel",
+    "image": "task_assign.jpg",
+    "category": "Web",
+    "links": {
+      "view": "https://taskassignee.yethura.com/",
+      "code": "https://github.com/YeThura-424/taskassignee.git"
+    }
+  },
+  {
     "name": "Travel And Tour",
     "desc": "Frontend template for travel and tour business. Fully functional based in HTML, Css, Javascript and Bootstrap",
-    "image": "travelandtour",
+    "image": "travelandtour.png",
     "category": "Web",
     "links": {
       "view": "https://travelagency.yethura.com/",
@@ -12,7 +32,7 @@
   {
     "name": "Event",
     "desc": "Revenu for some sort of events based on the topic, speaker and place which is made by pure Css, HTML, Javascript and Bootstrap",
-    "image": "event",
+    "image": "event.png",
     "category": "Template",
     "links": {
       "view": "https://event.yethura.com/",
@@ -20,9 +40,9 @@
     }
   },
   {
-    "name": "Inventory Management System",
+    "name": "GR IMS",
     "desc": "Mini POS like web based application to manage a retail shop. Developed with Vuejs and Laravel",
-    "image": "inventory",
+    "image": "inventory.jpg",
     "category": "web",
     "links": {
       "view": "https://inventory.yethura.com/",
@@ -30,9 +50,19 @@
     }
   },
   {
-    "name": "Football Field",
+    "name": "Myanmar Post",
+    "desc": "Leading delivery and logistics service provider in Myanmar. Developed with Vuejs and Laravel",
+    "image": "mmpost.png",
+    "category": "web",
+    "links": {
+      "view": "https://inventory.yethura.com/",
+      "code": "https://github.com/YeThura-424/ims-dashboard.git"
+    }
+  },
+  {
+    "name": "Rantee",
     "desc": "Any sort of football pitch rentable place. Developed using Laravel and Bootstrap",
-    "image": "football",
+    "image": "football.png",
     "category": "Web",
     "links": {
       "view": "https://fothub.yethura.com/",
@@ -40,9 +70,19 @@
     }
   },
   {
+    "name": "GlobalMarketPlace",
+    "desc": "E-commerce platform for buying and selling products globally. Developed with Nuxt and Laravel",
+    "image": "globalmarketplace.png",
+    "category": "web",
+    "links": {
+      "view": "https://inventory.yethura.com/",
+      "code": "https://github.com/YeThura-424/ims-dashboard.git"
+    }
+  },
+  {
     "name": "User Role Permission",
     "desc": "To customize different type of permissions for specific roles",
-    "image": "userrolepermission",
+    "image": "userrolepermission.png",
     "category": "Web",
     "links": {
       "view": "https://fothub.yethura.com/",
