@@ -56,7 +56,19 @@
     "icon": "https://img.icons8.com/?size=256&id=BUnExfsRs3CW&format=png"
   },
   {
-    "name": "Element Plus",
+    "name": "Pinia",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDixoQ_EhzLThdpfKIBMdmCAmhpHKfRgnacA&s"
+  },
+  {
+    "name": "Element+",
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf1kbcgUZQKvVkE5pcMTzAIimE41upKJShsQ&s"
+  },
+  {
+    "name": "NuxtJs",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNL4Fu_7wSU0ryAcJBgSBiDPAiDqkYr9CK5w&s"
+  },
+  {
+    "name": "Django",
+    "icon": "https://www.svgrepo.com/show/353657/django-icon.svg"
   }
 ]
