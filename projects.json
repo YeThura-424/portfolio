@@ -36,7 +36,8 @@
     "category": "Template",
     "links": {
       "view": "https://event.yethura.com/",
-      "code": "https://github.com/YeThura-424/event.git"
+      "code": "https://github.com/YeThura-424/event.git",
+      "video": null
     }
   },
   {
@@ -46,7 +47,8 @@
     "category": "web",
     "links": {
       "view": "https://inventory.yethura.com/",
-      "code": "https://github.com/YeThura-424/ims-dashboard.git"
+      "code": "https://github.com/YeThura-424/ims-dashboard.git",
+      "video" : null
     }
   },
   {
@@ -56,7 +58,8 @@
     "category": "web",
     "links": {
       "view": "https://inventory.yethura.com/",
-      "code": "https://github.com/YeThura-424/ims-dashboard.git"
+      "code": null,
+      "video" : null
     }
   },
   {
